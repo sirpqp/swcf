@@ -1,0 +1,6 @@
+.idea
+*.__pyc__
+__pycache__/
+bjqyxy.log
+check_code.png
+*.jpg
